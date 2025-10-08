@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razmik</h1>
-<h2 align="center">Welcome to my personal repository</h2
+<h2 align="center">Welcome to my personal github account</h2>
 
 - You can reach me **razmikachikyan5@gmail.com**
 
